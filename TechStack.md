@@ -1,13 +1,21 @@
 Next.js
+
 ├── Frontend
+
 ├── API Routes / Server Actions
+
 ├── Authentication
+
 ├── Business Logic
+
 └── MongoDB
 
-        ↓ HTTP
+↓ HTTP
 
 Python FastAPI
+
 └── ML Disease Prediction Model
-        ↓
-   PyTorch / TensorFlow
+
+↓
+
+PyTorch / TensorFlow
